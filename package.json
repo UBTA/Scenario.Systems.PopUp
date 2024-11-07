@@ -1,0 +1,13 @@
+{
+  "name": "com.weackss.scenario.systems.popup",
+  "displayName": "Scenario.Systems.PopUp",
+  "version": "1.2.5",
+  "description": "",
+  "license": "Dolbaeb Intenational",
+  "category": "System",
+  "author": {
+    "name": "Weackss",
+    "email": "ubta.etc@gmail.com"
+  },
+  "dependencies": {}
+}
